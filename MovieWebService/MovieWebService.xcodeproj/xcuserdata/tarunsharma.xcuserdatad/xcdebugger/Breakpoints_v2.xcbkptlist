@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieWebService/MovieDetail/Modules/MovieDetailPresenter.swift"
+            timestampString = "511107101.689342"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchMovieDetails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieWebService/MovieDetail/Modules/MovieDetailPresenter.swift"
+            timestampString = "511107106.767141"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "didRecievedMovieDetails(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWebService.MovieDetailPresenter.didRecievedMovieDetails (MovieWebService.MovieDetailModel) -&gt; ()"
+                  moduleName = "MovieWebService"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parasmaniupadhyaya/Documents/TarunSharma/Technical/Tutorials/Swift/VIPER%20Architecture/Source%20Code/Source%20Code/MovieWebService/MovieWebService/MovieDetail/Modules/MovieDetailPresenter.swift"
+                  timestampString = "511270774.357931"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWebServiceTests.MovieDetailPresenter.didRecievedMovieDetails (MovieWebServiceTests.MovieDetailModel) -&gt; ()"
+                  moduleName = "MovieWebServiceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parasmaniupadhyaya/Documents/TarunSharma/Technical/Tutorials/Swift/VIPER%20Architecture/Source%20Code/Source%20Code/MovieWebService/MovieWebService/MovieDetail/Modules/MovieDetailPresenter.swift"
+                  timestampString = "511270775.588928"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "496">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieWebService/Core/Services/MovieService.swift"
+            timestampString = "511107131.22913"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "fetchDetails(forMovie:callbackHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWebService.MovieService.fetchDetails (forMovie : Swift.Double, callbackHandler : (Swift.Optional&lt;Swift.AnyObject&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MovieWebService"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parasmaniupadhyaya/Documents/TarunSharma/Technical/Tutorials/Swift/VIPER%20Architecture/Source%20Code/Source%20Code/MovieWebService/MovieWebService/Core/Services/MovieService.swift"
+                  timestampString = "511270774.363794"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWebServiceTests.MovieService.fetchDetails (forMovie : Swift.Double, callbackHandler : (Swift.Optional&lt;Swift.AnyObject&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MovieWebServiceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parasmaniupadhyaya/Documents/TarunSharma/Technical/Tutorials/Swift/VIPER%20Architecture/Source%20Code/Source%20Code/MovieWebService/MovieWebService/Core/Services/MovieService.swift"
+                  timestampString = "511270775.592231"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieWebService/Core/Services/MovieService.swift"
+            timestampString = "511107149.469058"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fetchDetails(forMovie:callbackHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWebService.MovieService.(fetchDetails (forMovie : Swift.Double, callbackHandler : (Swift.Optional&lt;Swift.AnyObject&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "MovieWebService"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parasmaniupadhyaya/Documents/TarunSharma/Technical/Tutorials/Swift/VIPER%20Architecture/Source%20Code/Source%20Code/MovieWebService/MovieWebService/Core/Services/MovieService.swift"
+                  timestampString = "511270774.369185"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWebServiceTests.MovieService.(fetchDetails (forMovie : Swift.Double, callbackHandler : (Swift.Optional&lt;Swift.AnyObject&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "MovieWebServiceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parasmaniupadhyaya/Documents/TarunSharma/Technical/Tutorials/Swift/VIPER%20Architecture/Source%20Code/Source%20Code/MovieWebService/MovieWebService/Core/Services/MovieService.swift"
+                  timestampString = "511270775.59564"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieWebServiceTests/MovieListingTests.swift"
+            timestampString = "511263323.779629"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "testMovieListInterectorFetchMoviesWithValidMovieList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWebServiceTests.MovieListingTests.testMovieListInterectorFetchMoviesWithValidMovieList () -&gt; ()"
+                  moduleName = "MovieWebServiceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Tarun/Projects/Interview%20Assignment/Agoda/Source%20Code/Source%20Code/MovieWebService/MovieWebServiceTests/MovieListingTests.swift"
+                  timestampString = "511203883.195"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "183">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWebServiceTests.MovieListingTests.(testMovieListInterectorFetchMoviesWithValidMovieList () -&gt; ()).(implicit closure #1)"
+                  moduleName = "MovieWebServiceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Tarun/Projects/Interview%20Assignment/Agoda/Source%20Code/Source%20Code/MovieWebService/MovieWebServiceTests/MovieListingTests.swift"
+                  timestampString = "511203883.197433"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieWebServiceTests.MovieListingTests.(testMovieListInterectorFetchMoviesWithValidMovieList () -&gt; ()).(implicit closure #2)"
+                  moduleName = "MovieWebServiceTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Tarun/Projects/Interview%20Assignment/Agoda/Source%20Code/Source%20Code/MovieWebService/MovieWebServiceTests/MovieListingTests.swift"
+                  timestampString = "511203883.199872"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieWebServiceTests/Mocks/MockPresenters.swift"
+            timestampString = "511204227.404246"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "didRecievedError(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieWebServiceTests/Mocks/MockDataService.swift"
+            timestampString = "511270631.342076"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchMovies(callbackHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

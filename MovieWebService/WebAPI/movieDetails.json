@@ -1,0 +1,27 @@
+{
+    "id": 1,
+    "filmRating": 3,
+    "languages": [
+                  "English",
+                  "Thai"
+                  ],
+    "nominated": 1,
+    "releaseDate": 1350000000,
+    "name": "Argo",
+    "rating": 7.8,
+    "cast": [
+    {
+      "dateOfBirth": 436147200,
+      "nominated": 1,
+      "name": "Bryan Cranston",
+      "screenName": "Jack Donnell",
+      "biography": "Bryan Lee Cranston is an American actor, voice actor, writer and director."
+    }
+  ],
+  "director": {
+    "dateOfBirth": 82684800,
+    "nominated": 1,
+    "name": "Ben Affleck",
+    "biography": "Benjamin Geza Affleck was born on August 15, 1972 in Berkeley, California, USA but raised in Cambridge, Massachusetts, USA."
+  }
+}
